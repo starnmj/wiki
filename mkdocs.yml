@@ -1,0 +1,10 @@
+site_name: YHKLAB Wiki
+
+pages:
+        - Home: home.md
+        - Code: about.md
+        - Tutorials:
+                - 'MSDFT' : MSDFT.md
+                - 'Machine Learning': ML.md
+
+  
