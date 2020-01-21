@@ -25,3 +25,5 @@ b = tf.constant(32)
 
 sess.run(a+b)
 ```
+
+* Topic 2 : How to implement
