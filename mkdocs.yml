@@ -6,5 +6,6 @@ pages:
         - Tutorials:
                 - 'MSDFT' : MSDFT.md
                 - 'Machine Learning': ML.md
-
-  
+                - 'Tutorial 0 : Basic SIESTA Calculation': 00_Basic_UM.md
+                - 'Tutorial 1 : Au Electronic Structure Calculation': 01_GOLD_CHJ.md
+                - 'Tutorial 2 : Graphene Electronic Structure Calculation' : 02_Graphene_CHJ.md 
