@@ -2,7 +2,7 @@ site_name: YHKLAB Wiki
 
 pages:
         - Home: home.md
-        - Code: about.md
+        - About: about.md
         - Tutorials:
                 - 'MSDFT' : MSDFT.md
                 - 'Machine Learning': ML.md
