@@ -3,6 +3,9 @@ site_name: YHKLAB Wiki
 theme:
     name: 'material'
 
+plugins:
+    - git-revision-date-localized
+
 markdown_extensions:
     - attr_list
 
