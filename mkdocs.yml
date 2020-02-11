@@ -5,7 +5,6 @@ theme:
 
 plugins:
     - search
-    - git-revision-date-localized
 
 markdown_extensions:
     - attr_list
@@ -14,7 +13,7 @@ pages:
         - Home: home.md
         - About: about.md
         - Tutorials (basic):
-                - 'Tutorial 0 : Basic SIESTA Calculation': 00_Basic_UM.md
+                - 'Tutorial 0 : Basic SIESTA Calculation': Tutorial_0.md 
                 - 'Tutorial 1 : Au Electronic Structure Calculation': 01_GOLD_CHJ.md
                 - 'Tutorial 2 : Graphene Electronic Structure Calculation' : 02_Graphene_CHJ.md
                 - 'Tutorial 3 : Pseudopotential generations' : 03_Pseudopotential_RG.md
