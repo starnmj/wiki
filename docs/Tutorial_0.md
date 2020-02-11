@@ -91,7 +91,7 @@ a. 구조 최적화는 다음과 같은 방식으로 진행된다.
  Step 2. 위의 계산결과를 바탕으로 구조최적화 조건 없이 구조 계산을 실행한다.
 
 b. STRUCT 파일 구성 
- - 사이트(https://materialsproject.org/#search/materials/{%22nelements%22%3A2%2C%22elements%22%3A%22Ti-N%22})에서 원하는 원자 구조를 Primitive Cell 로 받는다.
+ - 사이트(https://materialsproject.org)에서 원하는 원자 구조를 Primitive Cell 로 받는다.
 
 
 
